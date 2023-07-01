@@ -11,4 +11,4 @@ The datasets include:
 - *Products* - Descriptins about the different products customers can buy, including product name, brand, store department, etc.
 - *Stores* - The store that the parent company owns
 
-The products dataset is based on [this one on Kaggle](https://www.kaggle.com/datasets/thedevastator/product-prices-and-sizes-from-walmart-grocery)https://www.kaggle.com/datasets/thedevastator/product-prices-and-sizes-from-walmart-grocery) by "The Devastator". I replaced all real brands and product names with fake ones.
+The products dataset is based on [this one on Kaggle](https://www.kaggle.com/datasets/thedevastator/product-prices-and-sizes-from-walmart-grocery) by "The Devastator". I replaced all real brands and product names with fake ones.
